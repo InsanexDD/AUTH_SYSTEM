@@ -9,38 +9,45 @@
         },
         {
             "username": "Adi",
-            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7\/cg\/TuXN6Q0XNCIEYMQB4AFolanvmu",
+            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7/cg/TuXN6Q0XNCIEYMQB4AFolanvmu",
             "subscription": "aimkillapk",
             "expiry": "2028-02-25",
             "device_id": "23ab38d675af7653"
         },
         {
             "username": "Shot",
-            "password": "$2y$12$zjqLeBaXcH1jXfqx4vc6ieW\/DspWuIbnonoWtfFFYjyRt5I1V\/mdy",
+            "password": "$2y$12$zjqLeBaXcH1jXfqx4vc6ieW/DspWuIbnonoWtfFFYjyRt5I1V/mdy",
             "subscription": "aimkillapk",
             "expiry": "2025-06-02",
             "device_id": ""
         },
         {
             "username": "VB",
-            "password": "$2y$12$EOwKOsS4osjgC7DRDfFS8uotG\/qs3Ft\/9ZofiD\/JCUSeRBKL6xd2K",
+            "password": "$2y$12$EOwKOsS4osjgC7DRDfFS8uotG/qs3Ft/9ZofiD/JCUSeRBKL6xd2K",
             "subscription": "aimkillapk",
             "expiry": "2025-09-20",
             "device_id": "f82b816165217d29"
         },
         {
             "username": "ADIHU",
-            "password": "$2y$12$5TRdJa8Vu15PDnFvXvHxDODb9tgGDbTs1qk8v6X10\/CFzbd8FWs9K",
+            "password": "$2y$12$5TRdJa8Vu15PDnFvXvHxDODb9tgGDbTs1qk8v6X10/CFzbd8FWs9K",
             "subscription": "aimkillapk",
             "expiry": "2028-02-25",
             "device_id": ""
         },
         {
             "username": "SHOT",
-            "password": "$2y$12$R60UsL9HliN1O85sQ\/2MUObWwQISvW.I4q9jAkPd\/bsTnr4uw1W7e",
+            "password": "$2y$12$R60UsL9HliN1O85sQ/2MUObWwQISvW.I4q9jAkPd/bsTnr4uw1W7e",
             "subscription": "aimkillapk",
             "expiry": "2025-06-02",
             "device_id": "755b6f4bdcf96541"
+        },
+        {
+            "username": "1",
+            "password": "$2y$12$8bMjvohCfjZWHqJA7dCy1eFgUNtpPB75Gie0CVR1WDU3mLDAUeJ12",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-02",
+            "device_id": ""
         }
     ]
 }
