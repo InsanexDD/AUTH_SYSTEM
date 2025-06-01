@@ -321,6 +321,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-02",
             "device_id": ""
+        },
+        {
+            "username": "gode",
+            "password": "$2y$12$c9NgDUa/E2cFpi4b32ibNuu2FmANcZuzZ6qlXKvYdHJ0piIdprBK2",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-08",
+            "device_id": ""
         }
     ]
 }
