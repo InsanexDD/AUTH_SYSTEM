@@ -90,6 +90,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-02",
             "device_id": ""
+        },
+        {
+            "username": "4",
+            "password": "$2y$12$Nqe2NibYfzCDEBSoCAAZYeotIPivz0UrcFcCZA7KFZ8ru3Tfnyuhq",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-02",
+            "device_id": ""
         }
     ]
 }
