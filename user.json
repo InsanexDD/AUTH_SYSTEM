@@ -9,10 +9,10 @@
         },
         {
             "username": "Adi",
-            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7/cg/TuXN6Q0XNCIEYMQB4AFolanvmu",
+            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7\/cg\/TuXN6Q0XNCIEYMQB4AFolanvmu",
             "subscription": "aimkillapk",
             "expiry": "2028-02-25",
-            "device_id": ""
+            "device_id": "23ab38d675af7653"
         }
     ]
 }
