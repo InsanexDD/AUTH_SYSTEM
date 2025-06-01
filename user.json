@@ -9,10 +9,17 @@
         },
         {
             "username": "Adi",
-            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7\/cg\/TuXN6Q0XNCIEYMQB4AFolanvmu",
+            "password": "$2y$12$xVtV9GRJUAz7q.hzhXl9Fe7/cg/TuXN6Q0XNCIEYMQB4AFolanvmu",
             "subscription": "aimkillapk",
             "expiry": "2028-02-25",
             "device_id": "23ab38d675af7653"
+        },
+        {
+            "username": "Shot",
+            "password": "$2y$12$SR0Nh8Of4oJVHJtxge71S.KwTsZ8qzCGfoZgmZb0H2f6mm.kpS0F.",
+            "subscription": "aimkillapk",
+            "expiry": "2028-02-25",
+            "device_id": ""
         }
     ]
 }
