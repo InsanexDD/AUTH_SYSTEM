@@ -349,6 +349,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-03",
             "device_id": "7a61a80dd184ef88"
+        },
+        {
+            "username": "fafa",
+            "password": "$2y$12$nF4gb2wlZL9hnsSfVaNOT.EON7vjkZaiw0DHzpsgdI43.fpO/NqWC",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-09",
+            "device_id": ""
         }
     ]
 }
