@@ -356,6 +356,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-09",
             "device_id": "d52221c2138e7e7a"
+        },
+        {
+            "username": "VB",
+            "password": "$2y$12$0VVQ5q68alZ6CHku.5bqA.nhKOa8HInuwq6Ekof9q.9tJQAIvyHdu",
+            "subscription": "aimkillapk",
+            "expiry": "2025-09-22",
+            "device_id": ""
         }
     ]
 }
