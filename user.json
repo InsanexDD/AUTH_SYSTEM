@@ -370,6 +370,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-09",
             "device_id": ""
+        },
+        {
+            "username": "Adi",
+            "password": "$2y$12$NP/vCiD9W/F5/mSX7H3DD.PtyVm8Ad3q.GF9VXtTpeJkNkR9nbN2K",
+            "subscription": "aimkillapk",
+            "expiry": "2028-02-28",
+            "device_id": ""
         }
     ]
 }
