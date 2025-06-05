@@ -384,6 +384,13 @@
             "subscription": "aimkillapk",
             "expiry": "2028-02-28",
             "device_id": "f3de1e4cb58c2684"
+        },
+        {
+            "username": "VB",
+            "password": "$2y$12$oOvz35NXUbvsXOXfooq4kui/HYHkASKVABN445B67AFdGW9BN6R5u",
+            "subscription": "aimkillapk",
+            "expiry": "2028-02-29",
+            "device_id": ""
         }
     ]
 }
