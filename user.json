@@ -391,6 +391,13 @@
             "subscription": "aimkillapk",
             "expiry": "2028-03-01",
             "device_id": "5d09bc0d85a69510"
+        },
+        {
+            "username": "Adii",
+            "password": "$2y$12$XjSLgu/JEyM7z8Ny86gEBOJAM35w4XJ72lV21yguh2lpSWWAZfwim",
+            "subscription": "aimkillapk",
+            "expiry": "2028-03-01",
+            "device_id": ""
         }
     ]
 }
