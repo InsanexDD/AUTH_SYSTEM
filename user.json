@@ -48,6 +48,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-10",
             "device_id": ""
+        },
+        {
+            "username": "Abhi",
+            "password": "$2y$12$dA5XaKCtqrzBpKTE7jL3g.ocGxNefAkFnka9s4NQzREnTiIP1eb8K",
+            "subscription": "aimkillapk",
+            "expiry": "2055-11-10",
+            "device_id": ""
         }
     ]
 }
