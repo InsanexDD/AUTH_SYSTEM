@@ -2,42 +2,42 @@
     "admin": [
         {
             "username": "Gratis",
-            "password": "$2y$12$sR2\/dN9H8G9isYut4GeSU.F7UuEGBqTkt1Gin8iwnipcT\/\/U0HQKO",
+            "password": "$2y$12$sR2/dN9H8G9isYut4GeSU.F7UuEGBqTkt1Gin8iwnipcT//U0HQKO",
             "subscription": "aimkillapk",
             "expiry": "2025-09-15",
             "device_id": "c2e62c45da23bdc6"
         },
         {
             "username": "Adi",
-            "password": "$2y$12$jqt2.URgAnVEsBrXmGWhj.vU43BDvSjxuQYKJihrJnBc\/r1nf8ywS",
+            "password": "$2y$12$jqt2.URgAnVEsBrXmGWhj.vU43BDvSjxuQYKJihrJnBc/r1nf8ywS",
             "subscription": "aimkillapk",
             "expiry": "2028-03-03",
             "device_id": "25ca9f47f4e0ddd3"
         },
         {
             "username": "vbb",
-            "password": "$2y$12$jwcP3ncWYNuEbHTzduH1iOAErB.AS\/HaTvegwvoHeankdMFuUYCSu",
+            "password": "$2y$12$jwcP3ncWYNuEbHTzduH1iOAErB.AS/HaTvegwvoHeankdMFuUYCSu",
             "subscription": "aimkillapk",
             "expiry": "2028-03-03",
             "device_id": "96b4a5a831ace3c0"
         },
         {
             "username": "harsh",
-            "password": "$2y$12$F1QIS\/37S7vWh8Hm6Hf7AOMroUOJPT40G\/9HvlTI3v3drWGbIRwJC",
+            "password": "$2y$12$F1QIS/37S7vWh8Hm6Hf7AOMroUOJPT40G/9HvlTI3v3drWGbIRwJC",
             "subscription": "aimkillapk",
             "expiry": "2025-06-18",
             "device_id": "008f850c1dcd6679"
         },
         {
             "username": "sonu",
-            "password": "$2y$12$l\/mcH2qhQRkrjCr1fEUYi.HLj33XgQy8HuinXq4r5RZ23gdyW6xde",
+            "password": "$2y$12$l/mcH2qhQRkrjCr1fEUYi.HLj33XgQy8HuinXq4r5RZ23gdyW6xde",
             "subscription": "aimkillapk",
             "expiry": "2025-06-18",
             "device_id": "d4c645e25ef82920"
         },
         {
             "username": "golu",
-            "password": "$2y$12$vAvg0E75RBp5BLE4wiITCuBY4SVWTHCm7sq5n1u2dt0jzhAL7\/Rpi",
+            "password": "$2y$12$vAvg0E75RBp5BLE4wiITCuBY4SVWTHCm7sq5n1u2dt0jzhAL7/Rpi",
             "subscription": "aimkillapk",
             "expiry": "2025-06-18",
             "device_id": "c2e62c45da23bdc6"
@@ -48,6 +48,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-10",
             "device_id": "ee83293478f0b334"
+        },
+        {
+            "username": "rajput",
+            "password": "$2y$12$sh166XMOUkFFG87siIDQWecjcNcUz9eg7Y.kVK/mfGUXqSZd1RLi2",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-10",
+            "device_id": ""
         }
     ]
 }
