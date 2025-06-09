@@ -62,6 +62,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-10",
             "device_id": "1f022efc0f4dfa76"
+        },
+        {
+            "username": "gol",
+            "password": "$2y$12$Y7jD5YCKOGrXHPAN3fj9jOiIC75IOJLSoSRkSqaK7PSfL71BR1Rou",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-12",
+            "device_id": ""
         }
     ]
 }
