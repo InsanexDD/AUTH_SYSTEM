@@ -78,13 +78,6 @@
             "device_id": ""
         },
         {
-            "username": "Harsh",
-            "password": "$2y$12$ylyzP27RdTNAy4qp0nVXPurreG8TmKA5OR6dav2UCswYJEAF0LeS6",
-            "subscription": "aimkillapk",
-            "expiry": "2025-07-13",
-            "device_id": "667b29dd42b9ea90"
-        },
-        {
             "username": "Tester",
             "password": "$2y$12$vVVGqkVtHFESH22GdV3LoeQSdxJAsaulGU/y/hUhn06g6RQ8N3PJq",
             "subscription": "aimkillapk",
@@ -104,13 +97,6 @@
             "subscription": "aimkillapk",
             "expiry": "2025-06-14",
             "device_id": "7326d1928555df87"
-        },
-        {
-            "username": "Harsh",
-            "password": "$2y$12$tiKk/Q/w9sRWx4EUsibDHOUIU4BoVbKUo.eNO/m4Zzv2mQ/bLpCpe",
-            "subscription": "aimkillapk",
-            "expiry": "2026-01-20",
-            "device_id": ""
         }
     ]
 }
