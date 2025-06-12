@@ -97,6 +97,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-14",
             "device_id": ""
+        },
+        {
+            "username": "Nav",
+            "password": "$2y$12$llfpZJCDAjgnnMHhQTvu8eiXRnuLLxQH3pRzGkypiczxpbMVHJb5S",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-14",
+            "device_id": ""
         }
     ]
 }
