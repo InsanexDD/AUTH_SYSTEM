@@ -104,6 +104,13 @@
             "subscription": "aimkillapk",
             "expiry": "2026-01-22",
             "device_id": "827ce8099f732d6f"
+        },
+        {
+            "username": "Meet",
+            "password": "$2y$12$DrexXopfEdoTvCD87da7OeCZpmgEuuVIPNmzLhVVAqx9chlmN.Q8.",
+            "subscription": "aimkillapk",
+            "expiry": "2025-06-19",
+            "device_id": ""
         }
     ]
 }
