@@ -111,13 +111,6 @@
             "subscription": "aimkillapk",
             "expiry": "2026-01-26",
             "device_id": "4bd49ae0de2c7026"
-        },
-        {
-            "username": "Punit",
-            "password": "$2y$12$8W0KvaXdH2ElR1XXH3O5lOteXX4pdrD0NMHTxoULrTRBSJtkFlVnS",
-            "subscription": "aimkillapk",
-            "expiry": "2026-01-26",
-            "device_id": ""
         }
     ]
 }
