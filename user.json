@@ -132,6 +132,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-11",
             "device_id": ""
+        },
+        {
+            "username": "Indus",
+            "password": "$2y$12$X3MXKERbjguHApV2INN.e.c6vZjBreeRij5zOz1.u0HezNLfVbEs6",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-28",
+            "device_id": ""
         }
     ]
 }
