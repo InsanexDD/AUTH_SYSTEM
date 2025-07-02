@@ -16,10 +16,10 @@
         },
         {
             "username": "insane",
-            "password": "$2b$12$qu7O1zj2eDwzir/wRyDGRulrCJ0.VlmoE4Ctw2hrDtNZhWvwdGTa6",
+            "password": "$2b$12$qu7O1zj2eDwzir\/wRyDGRulrCJ0.VlmoE4Ctw2hrDtNZhWvwdGTa6",
             "subscription": "aimkillapk",
             "expiry": "2030-06-18",
-            "device_id": ""
+            "device_id": "c51adc1c718abe16"
         },
         {
             "username": "golu",
